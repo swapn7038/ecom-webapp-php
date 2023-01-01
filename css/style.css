@@ -1,0 +1,11 @@
+/* .card img {
+  margin: 0 auto;
+  width: 50%;
+} */
+
+.card-img-top {
+  width: 100%;
+  height: 150px;
+  object-fit: contain;
+  /* border: 4px solid; */
+}
